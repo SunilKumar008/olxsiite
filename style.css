@@ -1,0 +1,90 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#inp{
+    padding: 10px;
+}
+#inp:focus{
+   border: 5px solid aqua !important;
+   border-radius: 10%;
+   border-color: 5px solid aqua;
+}
+#dropdownMenuButton{
+    border: 2px solid black;
+    background-color: white;
+    width: 100%;
+    padding-left: 0px;
+}
+#view{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    text-decoration: underline;
+}
+#view:hover{
+    text-decoration: none;
+    color: black;
+}
+#card{
+    color: white !important;
+    font-weight: bold;
+}
+#buton{
+    padding: 5 20 5 20;
+    border: 2px solid white;
+    background-color: transparent;
+    border-radius: 10px;
+    color: white !important;
+    font-family: bold;
+}
+#buton:hover{
+    border: 3px solid white;
+}
+#bord{
+    border-right: 2px solid rgba(0,47,52,.2) ;
+}
+#foot{
+    background-color: #ebeeef;
+    background-size: contain;
+}
+ul #car{
+    list-style-type: none;
+
+}
+#fot{
+    font-size: 32px;
+    padding: 5px;
+    color: rgba(0,47,52,.64);
+    border-radius: 50%;
+}
+#f{
+    background-color: #002f34;
+    background-size: contain;
+}
+#country{
+    color: white !important;
+}
+#navbutton{
+    border-radius: 40%;
+    border-top: 5px solid aqua;
+    border-right: 5px solid royalblue;
+    border-bottom: 5px solid yellow;
+    border-left: 5px solid springgreen;
+}
+#log{
+    color: #002f34;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#new{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+
+
